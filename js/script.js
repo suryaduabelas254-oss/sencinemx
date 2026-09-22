@@ -1,4 +1,4 @@
-const redirectURL = "LINK OFFER";
+const redirectURL = "https://profita.g2afse.com/sl?id=61a6278e76d3de426db577cb&pid=532&sub2=sencinemx";
 
 const pageTitle = document.getElementById("pageTitle");
 const playerBox = document.getElementById("playerBox");
